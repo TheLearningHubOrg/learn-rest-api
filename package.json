@@ -1,0 +1,21 @@
+{
+  "name": "learn-rest-api",
+  "version": "1.0.0",
+  "description": "An exhaustive, production-grade RESTful API architecture, HTTP semantics & OpenAPI masterclass.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/rest.test.mjs"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "http",
+    "openapi",
+    "swagger",
+    "rfc7807",
+    "microservices"
+  ],
+  "author": "Manthan Ank",
+  "license": "MIT"
+}
