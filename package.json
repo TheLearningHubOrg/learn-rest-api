@@ -2,9 +2,10 @@
   "name": "learn-rest-api",
   "version": "1.0.0",
   "description": "An exhaustive, production-grade RESTful API architecture, HTTP semantics & OpenAPI masterclass.",
-  "main": "index.js",
+  "main": "src/index.mjs",
   "type": "module",
   "scripts": {
+    "start": "node src/index.mjs",
     "test": "node --test tests/rest.test.mjs"
   },
   "keywords": [
